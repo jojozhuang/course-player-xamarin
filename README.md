@@ -3,7 +3,8 @@ An iOS app for playing course, built with Xamarin in C#.
 
 # Function
 This app is used to play course recordings.
-![image](/public/drag.png)
+
+<img src="/public/drag.png" width="350px">
 
 # Setup Locally
 ```bash
