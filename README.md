@@ -1,5 +1,5 @@
 # Course Player Mobile
-An iOS app for playing course, built with Xamarin in C#.
+An iOS app for playing course recordings, built with Xamarin in C#.
 
 # Function
 This app is used to play course recordings.
@@ -14,3 +14,6 @@ Open the project in Visual Studio, compile and run.
 
 # Portfolio
 Read portfolio [CoursePlayer(Xamarin)](http://jojozhuang.github.io/portfolio/course-player-xamarin/) to learn the main functions of this iOS app.
+
+# Tutorial
+Read tutorial [Building Course Player with Xamarin](http://jojozhuang.github.io/tutorial/mobile/building-course-player-with-xamarin/) to learn how this course player is built.
