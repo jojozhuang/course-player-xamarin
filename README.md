@@ -1,4 +1,4 @@
-# Course Player Mobile
+# Course Player Mobile App
 An iOS app for playing course recordings, built with Xamarin in C#.
 
 # Function
