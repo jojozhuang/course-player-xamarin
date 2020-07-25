@@ -13,7 +13,7 @@ git clone https://github.com/jojozhuang/course-player-xamarin.git
 Open the project in Visual Studio, compile and run.
 
 # Portfolio
-Read portfolio [CoursePlayer(Xamarin)](https://jojozhuang.github.io/portfolio/course-player-xamarin/) to learn the main functions of this iOS app.
+Read portfolio [CoursePlayer(Xamarin)](https://jojozhuang.github.io/project/course-player-xamarin) to learn the main functions of this iOS app.
 
 # Tutorial
-Read tutorial [Building Course Player with Xamarin](https://jojozhuang.github.io/tutorial/mobile/building-course-player-with-xamarin/) to learn how this course player is built.
+Read tutorial [Building Course Player with Xamarin](https://jojozhuang.github.io/tutorial/building-course-player-with-xamarin) to learn how this course player is built.
